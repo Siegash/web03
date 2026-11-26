@@ -1,0 +1,28 @@
+{
+  "schema": "IssoEGolpe-Registros-Locais",
+  "exportedAt": "2026-11-26T19:54:04.143Z",
+  "usuario": {
+    "nome": "Liz",
+    "email": "luizpoliver047@gmail.com",
+    "telefone": "3200000000",
+    "cidade": "juiz de fora",
+    "persona": "cliente",
+    "updatedAt": "2026-11-26T19:37:41.521Z"
+  },
+  "golpesRegistrados": [
+    {
+      "nome": "Liz",
+      "email": "luizpoliver047@gmail.com",
+      "telefone": "3200000000",
+      "persona": "cliente",
+      "tipoGolpe": "WhatsApp falso / Número novo pedindo Pix",
+      "canal": "WhatsApp",
+      "dataOcorrencia": "2026-11-26",
+      "impacto": "Caí no golpe — fiz transferência / Pix",
+      "valorPrejuizo": "5000",
+      "relato": "mãe to precisando de 5000 para pagar meu cartão",
+      "id": "golpe_mwxyfk41_h1ud",
+      "criadoEm": "2026-11-26T19:37:41.521Z"
+    }
+  ]
+}
